@@ -1,7 +1,7 @@
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa106c35e-ccf0-11ea-b702-e559f69f5512.jpg?crop=1397%2C931%2C64%2C865" width="2000" height="500">
 
 <h1 align="center">Hi 👋, I'm Karthik S</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa106c35e-ccf0-11ea-b702-e559f69f5512.jpg?crop=1397%2C931%2C64%2C865" width="2000" height="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="karthikxworkz" /> </p>
 
