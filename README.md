@@ -11,14 +11,14 @@
 
 - 💬 Ask me about **java,html,css,mysql,javascript**
 
-- 📫 How to reach me **karthiksreddy45@gmail.com**
+- 📄 my resume [https://in.docworkspace.com/d/sIPb1hN9EnKCirgY](https://in.docworkspace.com/d/sIPb1hN9EnKCirgY)
 
 - ⚡ Fun fact **I prefer to travel with a camera and explore villages in the middle of nowhere.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/karthik78374852" target="blank"><img align="center"
-<a href="https://instagram.com/https://www.instagram.com/_mr_wanderluster_?igsh=czjpchowzzbya3rx" target="blank"><img align="center" src="https://raw.githubusercontent.com/_mr_wanderluster_/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_mr_wanderluster_?igsh=czjpchowzzbya3rx" height="30" width="40" /></a> 
+<a href="https://twitter.com/karthik78374852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik78374852" height="30" width="40" /></a>
+<a href="https://instagram.com/_mr_wanderluster_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_wanderluster_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
